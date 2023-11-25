@@ -5283,6 +5283,7 @@ main.main.get-skinive {
 .lets-make-money-together__form input:not([type=submit]) {
   border: none;
   border-bottom: 1px solid #E4E4E4;
+  background-color: transparent;
   color: #8B8B8B;
   font-size: 14px;
   font-weight: 400;
